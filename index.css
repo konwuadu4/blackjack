@@ -1,0 +1,29 @@
+h1 {
+    color: goldenrod;
+}
+
+body{
+
+    background-color: green;
+    text-align: center;
+    font: "Monserrat";
+    color: white;
+    font-weight: bold;
+}
+
+#message-el{
+    font-style: italic;
+}
+
+button {
+    background-color: goldenrod;
+    color: #016f32;
+    width: 150px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+    margin-bottom: 2px;
+    margin-top: 2px;
+}
